@@ -1,4 +1,4 @@
-# AIFFEL_GOINGDEEPER💻📚
+# AIFFEL_GOINGDEEPER(CV)💻📚
 
 |노드|제목|내용|category|
 |---|---|---|---|
