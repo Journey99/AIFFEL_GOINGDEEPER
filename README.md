@@ -8,5 +8,4 @@
 |GD4| 4. 이미지 어디까지 우려볼까? | 텐서플로우의 random augmentation 기법을 적용해 보고, 최신 augmentation 기법을 익힌다. 직접 모델을 학습시켜 비교 실험을 진행해 본다. | CutMix & MixUp Augmentation | 
 |GD5| 5. 너의 속이 궁금해 - Class Activation Map 살펴보기 | 모델의 작동 원리를 가늠할 수 있는 CAM, Grad-CAM, ACoL 모델을 공부하고 XAI(Explainable AI)의 기초를 익힌다. | CAM | 
 |GD6| 6. 나를 찾아줘 - Class Activation Map 만들기 | CAM, Grad-CAM을 위한 모델을 직접 만들고, CAM을 추출해 시각화 해본다. CAM을 Object detection에 적용해 결과를 평가해 본다. | CAM, Grad-CAM | 
-|GD7| 7. Object Detection | Object detection 문제와 이를 해결하기 위한 다양한 detection 모델들을 알아본다.
-제출함 | Object detection | 
+|GD7| 7. Object Detection | Object detection 문제와 이를 해결하기 위한 다양한 detection 모델들을 알아본다. | Object detection | 
