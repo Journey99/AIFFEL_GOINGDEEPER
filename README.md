@@ -9,3 +9,5 @@
 |GD5| 5. 너의 속이 궁금해 - Class Activation Map 살펴보기 | 모델의 작동 원리를 가늠할 수 있는 CAM, Grad-CAM, ACoL 모델을 공부하고 XAI(Explainable AI)의 기초를 익힌다. | CAM | 
 |GD6| 6. 나를 찾아줘 - Class Activation Map 만들기 | CAM, Grad-CAM을 위한 모델을 직접 만들고, CAM을 추출해 시각화 해본다. CAM을 Object detection에 적용해 결과를 평가해 본다. | CAM, Grad-CAM | 
 |GD7| 7. Object Detection | Object detection 문제와 이를 해결하기 위한 다양한 detection 모델들을 알아본다. | Object detection | 
+|GD8| 8. GO/STOP! - Object Detection 시스템 만들기 | Object detection 모델을 사용해 자동차 또는 사람이 가까이 있는지 확인한 후 멈출 수 있는 시스템을 만든다 | Object detection |
+|GD9| 9. 물체를 분리하자! - 세그멘테이션 살펴보기 | 픽셀 수준에서 이미지의 각 부분이 어떤 의미를 갖는 영역인지 분리를 해내는 세그멘테이션을 학습한다. 세그멘테이션의 종류, 주요 모델, 평가 기준을 알아본다. | Image Segementation |
