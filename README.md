@@ -11,3 +11,5 @@
 |GD7| 7. Object Detection | Object detection 문제와 이를 해결하기 위한 다양한 detection 모델들을 알아본다. | Object detection | 
 |GD8| 8. GO/STOP! - Object Detection 시스템 만들기 | Object detection 모델을 사용해 자동차 또는 사람이 가까이 있는지 확인한 후 멈출 수 있는 시스템을 만든다 | Object detection |
 |GD9| 9. 물체를 분리하자! - 세그멘테이션 살펴보기 | 픽셀 수준에서 이미지의 각 부분이 어떤 의미를 갖는 영역인지 분리를 해내는 세그멘테이션을 학습한다. 세그멘테이션의 종류, 주요 모델, 평가 기준을 알아본다. | Image Segmentation |
+|GD10| 10. 도로 영역을 찾자! - 세그멘테이션 모델 만들기 | 시맨틱 세그멘테이션을 이용해 자율주행 차량을 위해 도로영역을 찾는 모델을 간단히 만들어 본다. | Image Segmentation - U-Net |
+|GD11| 11. OCR 기술의 개요 | 이미지 속 글자를 읽어보는 OCR 기술을 구성하는 Text detection과 Text recognition에 대해 알아본다.  | OCR |
